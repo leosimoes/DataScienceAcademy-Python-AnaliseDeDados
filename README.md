@@ -1,9 +1,9 @@
-# DataScienceAcademy -
+# DataScienceAcademy - Análise de Dados com Linguagem Python
 Atividades do curso Análise de Dados com Linguagem Python da DataScienceAcademy.
 
 
 ## Atividades
-
+- Projeto 1 - Banco Relacional, Python e SQL Para Análise de Dados
 
 
 ## Referências
